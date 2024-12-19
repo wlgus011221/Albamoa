@@ -2,7 +2,7 @@
 <%@ page import="java.sql.*" %>
 <%@ page import="java.util.*" %>
 
-<!-- 검색엔진 완벽하니까 건들 ㄴㄴ. 혹시 몰라서 백업한거다 -->
+<!-- 검색엔진 백업 -->
 <%
 	String userKeyword = request.getParameter("query");
 
