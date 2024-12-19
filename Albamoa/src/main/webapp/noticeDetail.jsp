@@ -246,7 +246,7 @@
 		    background-color: #666; /* 호버 시 조금 더 어두운 회색으로 변경 */
 		}
     </style>
-    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=c04bdfdf2895354d0558305deeeaa8d5&libraries=services"></script>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey="></script> /* 발급받은 appkey 작성성 */
     <script type="text/javascript">
 	    function initializeMap() {
 	        var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
